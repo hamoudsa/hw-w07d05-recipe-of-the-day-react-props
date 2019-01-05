@@ -1,0 +1,23 @@
+.title{
+    padding:25px;
+    background-color: wheat;
+    font-family: Bookman;
+
+}
+.Recipe{
+    display: block;
+    padding: 10px;
+    background-color:lightsalmon;
+    font-family:Times;
+    
+}
+.Ingredient{
+    padding: 16px;
+    background-color: lightsalmon;
+    font-family: Georgia;
+}
+.header{
+    padding: 22px;
+    background-color:lightcoral;
+    font-family: Courier;
+}
